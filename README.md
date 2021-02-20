@@ -2,8 +2,6 @@
 
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-📝 `NOTE - PASTE PART 2 SNIPPET HERE:` Paste the README template for part 2 of this assignment here at the top. This will show a history of your development process, which users stories you completed and how your app looked and functioned at each step.
-
 ---
 
 ## Flix Part 1
@@ -24,4 +22,5 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="https://recordit.co/FU5ZFT6WMi.gif" width=250><br>
 
 ### Notes
-- 
+- Ruby was out of date and required an update with the help of the websites https://brew.sh/ & https://nrogap.medium.com/install-rvm-in-macos-step-by-step-d3b3c236953b and TA Will Huynh
+- Typo in URL took a while to find
